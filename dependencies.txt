@@ -1,3 +1,4 @@
 bat     -  https://github.com/sharkdp/bat
 fd      -  https://github.com/sharkdp/fd
 gitmux  -  https://github.com/arl/gitmux
+xclip   -  https://github.com/astrand/xclip
