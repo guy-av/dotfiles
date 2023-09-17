@@ -8,6 +8,10 @@ function link-fish
     ln -s $cwd/fish $config/
 end
 
+function link-gitmux
+    ln -s $cwd/gitmux $config/
+end
+
 function link-fonts
     for font in $cwd/fonts/*
         set -l base_name (command basename $font)
@@ -16,4 +20,5 @@ function link-fonts
 end
 
 link-fish
+link-gitmux
 link-fonts
