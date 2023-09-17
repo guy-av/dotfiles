@@ -5,7 +5,7 @@ set -g config "$HOME/.config"
 set -g share "$HOME/.local/share"
 
 function link-fish
-    ln -s $cwd/fish $config/fish
+    ln -s $cwd/fish $config/
 end
 
 function link-fonts
