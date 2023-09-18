@@ -1,2 +1,3 @@
-bat  -  https://github.com/sharkdp/bat
-fd   -  https://github.com/sharkdp/fd
+bat     -  https://github.com/sharkdp/bat
+fd      -  https://github.com/sharkdp/fd
+gitmux  -  https://github.com/arl/gitmux
