@@ -5,6 +5,7 @@ set -g config "$HOME/.config"
 set -g share "$HOME/.local/share"
 
 function link-fish
+    rm -r $config/fish
     ln -s $cwd/fish $config/
 end
 
