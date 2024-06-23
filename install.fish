@@ -35,4 +35,3 @@ end
 link-fish
 link-gitmux
 link-tmux
-link-fonts
