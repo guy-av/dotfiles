@@ -10,4 +10,7 @@ if status is-interactive
     set -x PAGER $BASE_PAGER -F
     set -x MANPAGER $BASE_PAGER
     set -x BAT_PAGER $PAGER
+
+    # Bat
+    set -x BAT_THEME TwoDark
 end
